@@ -1,11 +1,23 @@
 # soc-estimation-of-ev-in-matlab-
 for more info
 https://nachiboin.blogspot.com/2022/06/modeling-and-simulation-of-electric.html
+
 MATLAB Model of Electric Vehicle:
 ![Picture2](https://user-images.githubusercontent.com/105433273/205340453-9ffdc050-d47f-46ac-88db-0481eeac3b9c.png)
 Model parameters: 
 1:Vehicle Body & Transmission:
-![Picture2](https://user-images.githubusercontent.com/105433273/205340615-eba9c14a-b3df-49d2-b043-9aea28d88346.png)
+![Screenshot 2022-07-02 125504](https://user-images.githubusercontent.com/105433273/205340754-ab27a97f-0667-493f-9055-34d8cec001c3.png)
+2:Motor & Control system: 
+Motor type: DC Motor
+![mceclip5_1602399603](https://user-images.githubusercontent.com/105433273/205340898-050a5396-b2a9-489e-ac7a-6d8a46a2eba0.png)
+3:Controlled PWM Voltage source:
+![mceclip3_1602399177](https://user-images.githubusercontent.com/105433273/205341074-8c2fc061-77d9-4955-b90b-578d2edad329.png)
+4:Power Converter:
+H-bridge:
+![mceclip1_1602398958](https://user-images.githubusercontent.com/105433273/205341303-a76baf0e-82ee-49f1-b364-5081aacd55ae.png)
+5:Battery: 
+![mceclip16_1602403500](https://user-images.githubusercontent.com/105433273/205341420-fe445115-c1f4-487e-8f52-a2aaceaae2c9.png)
+
 
 RESULTS:
 1:soc_graph:
