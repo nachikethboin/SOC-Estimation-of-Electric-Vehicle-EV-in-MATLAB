@@ -1,7 +1,9 @@
 # soc-estimation-of-ev-in-matlab-
 for more info
+blog:
 https://nachiboin.blogspot.com/2022/06/modeling-and-simulation-of-electric.html
-
+youtube video:
+https://www.youtube.com/watch?v=j3k0Pqrier0
 MATLAB Model of Electric Vehicle:
 
 ![Picture2](https://user-images.githubusercontent.com/105433273/205340453-9ffdc050-d47f-46ac-88db-0481eeac3b9c.png)
